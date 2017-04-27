@@ -1,6 +1,8 @@
 //Jose Hernandez
 //This is a practice for parrellel programming with message passing communication
 //among multiple processes using Unix pipe
+//and to see which is faster recursion fibonacci or iterative fibonacci and getting 
+//each of their time 
 //compiled and ran using cygwin 
 #include<unistd.h>
 #include<cstdlib>
